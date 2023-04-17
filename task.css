@@ -1,0 +1,22 @@
+body{background-color:white;}
+h1{color:00B7C7;
+ text-decoration: underline;
+margin-left: 50px;}
+.p1{font-size:20px ;
+margin-left: 60px;
+font-family: Verdana, Geneva, Tahoma, sans-serif;}
+.big
+{
+    font-size: 16px;
+    line-height: 28px;
+    font-weight: 400;
+    letter-spacing: 0px;
+}
+@media (min-width: 576px)
+{
+.navbar-expand-sm .navbar-collapse {
+    display: flex!important;
+    flex-basis: auto;
+    margin-left: 472px;
+}
+}
